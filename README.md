@@ -1,3 +1,5 @@
+## SilverBullet v1.1.3: http://adfoc.us/7733091
+
 # SilverBulletPro
 
 **https://t.me/SilverBulletSoft**
